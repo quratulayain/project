@@ -1,0 +1,17 @@
+h2{
+ text-align: center;
+} 
+img{
+    margin: auto;
+    display: block;
+    border: 50px rgb(186, 16, 101);
+    width: 50%;
+    height: 10%;
+    box-shadow: rgb(76, 190, 10);
+   
+
+}
+p{
+    text-align: left;
+    color: blue;
+}   
